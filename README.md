@@ -1,5 +1,7 @@
-TypeScript Vite React Demo
+TypeScript Vite React TippyJS Highlight Guide Demo
 ===========================
+
+使用tippyJs实现guide
 
 ```
 npm install
